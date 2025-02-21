@@ -11,10 +11,32 @@ namespace Day01_1
         static void Main(string[] args)
         {
             //변수 선언
-            int age; //정수형 변수
-            age = 25; //변수에 값 저장
+            int age;                        //정수형 변수
+            age = 25;                       //변수에 값 저장
+                
+            Console.WriteLine(age);         //변수에 저장된 값을 출력
+			Console.WriteLine("---------------------------------------------------");
 
-            Console.WriteLine(age); //변수에 저장된 값을 출력
-        }
-    }
+            //리터럴 : 코드에서 고정된 값을 의미함
+            int number = 10;                //정수형 리터럴
+            double pi = 3.14;               //실수형 리터럴
+            char letter = 'A';              //문자 리터럴
+            string name = "Alice";          //문자열 리터럴
+
+            Console.WriteLine(number);      //출력 : 10
+            Console.WriteLine(pi);          //출력 : 3.14
+            Console.WriteLine(letter);      //출력 : A
+            Console.WriteLine(name);        //출력 :Alice
+			Console.WriteLine("---------------------------------------------------");
+
+            int hp = 100;
+            float att = 56.7f;
+            string charName = "??";
+            char grade = 'A';
+
+			Console.WriteLine(hp);      
+			Console.WriteLine(att);          
+			Console.WriteLine(charName);      
+			Console.WriteLine(grade);      
+		}
 }

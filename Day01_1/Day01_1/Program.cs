@@ -31,12 +31,13 @@ namespace Day01_1
 
             int hp = 100;
             float att = 56.7f;
-            string charName = "??";
+            string charName = "밀리오";
             char grade = 'A';
 
-			Console.WriteLine(hp);      
-			Console.WriteLine(att);          
-			Console.WriteLine(charName);      
-			Console.WriteLine(grade);      
+			Console.WriteLine("캐릭터");
+			Console.WriteLine("Hp : " + hp);      
+			Console.WriteLine("Att : " + att);          
+			Console.WriteLine("Character Name : " + charName);      
+			Console.WriteLine("Grade : " + grade);      
 		}
 }

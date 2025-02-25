@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\bin\Debug\RaiseABlacksmith.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\bin\Debug\RaiseABlacksmith.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\bin\Debug\RaiseABlacksmith.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\obj\Debug\RaiseABlacksmith.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\obj\Debug\RaiseABlacksmith.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\obj\Debug\RaiseABlacksmith.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaiseABlacksmith\RaiseABlacksmith\obj\Debug\RaiseABlacksmith.pdb

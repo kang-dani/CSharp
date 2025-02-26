@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\bin\Debug\Day04.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\bin\Debug\Day04.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\bin\Debug\Day04.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\obj\Debug\Day04.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\obj\Debug\Day04.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\obj\Debug\Day04.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day04\Day04\obj\Debug\Day04.pdb

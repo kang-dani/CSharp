@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day03_Bingo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DBA08D-A961-45BA-94FB-A401B14D1296}|Day03_Bingo\\Day03_Bingo.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day03_bingo\\day03_bingo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DBA08D-A961-45BA-94FB-A401B14D1296}|Day03_Bingo\\Day03_Bingo.csproj|solutionrelative:day03_bingo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day03_Bingo\\Day03_Bingo\\Program.cs",
+              "RelativeDocumentMoniker": "Day03_Bingo\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day03_Bingo\\Day03_Bingo\\Program.cs*",
+              "RelativeToolTip": "Day03_Bingo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:24:48.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

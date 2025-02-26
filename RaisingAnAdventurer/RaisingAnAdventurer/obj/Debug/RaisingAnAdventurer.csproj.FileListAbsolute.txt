@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\obj\Debug\RaisingAnAdventurer.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\obj\Debug\RaisingAnAdventurer.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\bin\Debug\RaisingAnAdventurer.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\bin\Debug\RaisingAnAdventurer.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\bin\Debug\RaisingAnAdventurer.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\obj\Debug\RaisingAnAdventurer.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\RaisingAnAdventurer\RaisingAnAdventurer\obj\Debug\RaisingAnAdventurer.pdb

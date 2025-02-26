@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\bin\Debug\Day03_Bingo.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\bin\Debug\Day03_Bingo.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\bin\Debug\Day03_Bingo.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\obj\Debug\Day03_Bingo.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\obj\Debug\Day03_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\obj\Debug\Day03_Bingo.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day03_Bingo\Day03_Bingo\obj\Debug\Day03_Bingo.pdb

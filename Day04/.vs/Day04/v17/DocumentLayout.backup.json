@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D699F64C-965C-4C2D-BCC5-1DF94D4BEDE8}|Day04\\Day04.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day04\\day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D699F64C-965C-4C2D-BCC5-1DF94D4BEDE8}|Day04\\Day04.csproj|solutionrelative:day04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day04\\Day04\\Program.cs",
+              "RelativeDocumentMoniker": "Day04\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day04\\Day04\\Program.cs*",
+              "RelativeToolTip": "Day04\\Program.cs*",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJ8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:19:26.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\bin\Debug\TodayTask2_RaisingWarm.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\bin\Debug\TodayTask2_RaisingWarm.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\bin\Debug\TodayTask2_RaisingWarm.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\obj\Debug\TodayTask2_RaisingWarm.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\obj\Debug\TodayTask2_RaisingWarm.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\obj\Debug\TodayTask2_RaisingWarm.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\TodayTask2_RaisingWarm\TodayTask2_RaisingWarm\obj\Debug\TodayTask2_RaisingWarm.pdb

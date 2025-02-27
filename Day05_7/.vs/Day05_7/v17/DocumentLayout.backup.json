@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day05_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157D2884-6AAB-43AD-A832-659F03011AD9}|Day05_7\\Day05_7.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day05_7\\day05_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{157D2884-6AAB-43AD-A832-659F03011AD9}|Day05_7\\Day05_7.csproj|solutionrelative:day05_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day05_7\\Day05_7\\Program.cs",
+              "RelativeDocumentMoniker": "Day05_7\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day05_7\\Day05_7\\Program.cs*",
+              "RelativeToolTip": "Day05_7\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:05:12.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

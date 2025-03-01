@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day06_ShootingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1C7D72-1D7D-44A8-8502-F9FE0BDA24E4}|Day06_ShootingGame\\Day06_ShootingGame.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day06_shootinggame\\day06_shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1C7D72-1D7D-44A8-8502-F9FE0BDA24E4}|Day06_ShootingGame\\Day06_ShootingGame.csproj|solutionrelative:day06_shootinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day06_ShootingGame\\Day06_ShootingGame\\Program.cs",
+              "RelativeDocumentMoniker": "Day06_ShootingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day06_ShootingGame\\Day06_ShootingGame\\Program.cs*",
+              "RelativeToolTip": "Day06_ShootingGame\\Program.cs*",
+              "ViewState": "AgIAABcCAAAAAAAAAAAYwDMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:07:52.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

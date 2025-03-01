@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\obj\Debug\Day06_ShootingGame.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\obj\Debug\Day06_ShootingGame.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\bin\Debug\Day06_ShootingGame.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\bin\Debug\Day06_ShootingGame.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\bin\Debug\Day06_ShootingGame.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\obj\Debug\Day06_ShootingGame.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day06_ShootingGame\Day06_ShootingGame\obj\Debug\Day06_ShootingGame.pdb

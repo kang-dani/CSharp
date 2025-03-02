@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\bin\Debug\AnimalCrossing.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\bin\Debug\AnimalCrossing.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\bin\Debug\AnimalCrossing.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\obj\Debug\AnimalCrossing.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\obj\Debug\AnimalCrossing.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\obj\Debug\AnimalCrossing.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\AnimalCrossing\AnimalCrossing\obj\Debug\AnimalCrossing.pdb

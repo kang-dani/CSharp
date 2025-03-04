@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\obj\Debug\Day07_Quest2.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\obj\Debug\Day07_Quest2.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\bin\Debug\Day07_Quest2.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\bin\Debug\Day07_Quest2.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\bin\Debug\Day07_Quest2.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\obj\Debug\Day07_Quest2.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day07_Quest2\Day07_Quest2\obj\Debug\Day07_Quest2.pdb

@@ -499,10 +499,12 @@ namespace AnimalCrossing
 			selectNum = select.Choice(choices1);
 			if(selectNum == 0)
 			{
+				//외형 결정
 				message.ShowDialogue("운전수", "오랜만에 멀리까지 나왔는데 역시 세상 일은 쉽지 않지?", this);
 			}
 			else
 			{
+				//외형 결정
 				message.ShowDialogue("운전수", "뭐! 사람마다 느끼는 건 다른 법이니까", this);
 			}
 			message.ShowDialogue("운전수", "그런데 손님 이름은 뭔가-?", this);
@@ -513,6 +515,11 @@ namespace AnimalCrossing
 		{
 			DriveMessageChat();
 		}
+
+	}
+
+	class Character
+	{
 
 	}
 	class NPC

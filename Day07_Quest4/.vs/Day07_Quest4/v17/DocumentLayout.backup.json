@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day07_Quest4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74638FB-5D0D-42C6-9ADF-A52296B50F2E}|Day07_Quest4\\Day07_Quest4.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day07_quest4\\day07_quest4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74638FB-5D0D-42C6-9ADF-A52296B50F2E}|Day07_Quest4\\Day07_Quest4.csproj|solutionrelative:day07_quest4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day07_Quest4\\Day07_Quest4\\Program.cs",
+              "RelativeDocumentMoniker": "Day07_Quest4\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day07_Quest4\\Day07_Quest4\\Program.cs*",
+              "RelativeToolTip": "Day07_Quest4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:23:35.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

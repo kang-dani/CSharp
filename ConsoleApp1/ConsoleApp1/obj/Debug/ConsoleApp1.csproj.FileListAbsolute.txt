@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

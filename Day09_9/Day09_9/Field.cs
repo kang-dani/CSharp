@@ -7,31 +7,31 @@ using System.Threading.Tasks;
 
 namespace Day09_9
 {
-    public class Field
-    {
-        Player m_pPlayer = null;
-        //몬스터 생성
-        Monster m_pMonster = null;
+	public class Field
+	{
+		Player m_pPlayer = null;
+		//몬스터 생성
+		Monster m_pMonster = null;
 
 		//플레이어가 maingame에서 생성한 거 갖고 오기
 		//플레이어가 필드에서 전투를 하면 데미지 입고 , hp가 까짐
 
 		public void SetPlayer(Player _pPlayer) { m_pPlayer = _pPlayer; }
 
-        public void Progress()
-        {
-            int iInput = 0;
-            
-            while(true)
+		public void Progress()
+		{
+			int iInput = 0;
+
+			while (true)
 			{
-				
+
 				DrawMap();
 				iInput = int.Parse(Console.ReadLine());
-				if(iInput == 4)
+				if (iInput == 4)
 				{
 					break;
 				}
-				if(iInput <= 3)
+				if (iInput <= 3)
 				{
 					//몬스터를 만들고
 					//1 번일 때 초보 몬스터
@@ -87,8 +87,9 @@ namespace Day09_9
 		{
 			int iInput = 0;
 
-			while(true)
+			while (true)
 			{
+				Console.Clear();
 				m_pPlayer.Render();
 				m_pMonster.Render();
 
@@ -104,7 +105,7 @@ namespace Day09_9
 
 					if (m_pPlayer.iHp <= 0)
 					{
-						if(m_pPlayer.strName == "기사")
+						if (m_pPlayer.strName == "기사")
 						{
 							m_pPlayer.iHp = 100;
 						}
@@ -116,17 +117,17 @@ namespace Day09_9
 						{
 							m_pPlayer.iHp = 85;
 							break;
+						}
 					}
-				}
 
-				if (iInput == 2 || m_pMonster.iHp <= 0)
-				{
-					m_pMonster = null;
-					break;
+					if (iInput == 2 || m_pMonster.iHp <= 0)
+					{
+						m_pMonster = null;
+						break;
+					}
 				}
 			}
 		}
-
 
 		public Field() { }
 		~Field() { }

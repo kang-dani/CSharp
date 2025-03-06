@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\day09_9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_9\\day09_9\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\day09_9\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_9\\day09_9\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\day09_9\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_9\\day09_9\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_9\\day09_9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\day09_9\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD44A4BF-D976-4F5C-871B-F5FDF5CA8D58}|Day09_9\\Day09_TextRPG.csproj|solutionrelative:day09_9\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 326,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,41 +35,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Monster.cs",
-              "RelativeDocumentMoniker": "Day09_9\\Monster.cs",
-              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Monster.cs",
-              "RelativeToolTip": "Day09_9\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:04:13.955Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 322,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Player.cs",
               "RelativeDocumentMoniker": "Day09_9\\Player.cs",
               "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Player.cs",
               "RelativeToolTip": "Day09_9\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:12:53.762Z",
+              "WhenOpened": "2025-03-06T08:42:32.154Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 332,
-          "SelectedChildIndex": 0,
-          "Children": [
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -82,77 +53,33 @@
               "RelativeDocumentMoniker": "Day09_9\\Entity.cs",
               "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Entity.cs",
               "RelativeToolTip": "Day09_9\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T07:32:20.243Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "7197c274-a2fe-450c-9361-52a0e5cf24ce",
-        "Display": 0,
-        "X": 195,
-        "Y": 407,
-        "Width": 590,
-        "Height": 588,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Field.cs",
-              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Field.cs",
-              "RelativeDocumentMoniker": "Day09_9\\Field.cs",
-              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Field.cs",
-              "RelativeToolTip": "Day09_9\\Field.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowFUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:02:47.485Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "19189e81-ab70-4501-8005-d22f68b09993",
-        "Display": 0,
-        "X": 757,
-        "Y": 498,
-        "Width": 606,
-        "Height": 548,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2025-03-06T08:41:18.174Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainGame.cs",
-              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\MainGame.cs",
-              "RelativeDocumentMoniker": "Day09_9\\MainGame.cs",
-              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\MainGame.cs",
-              "RelativeToolTip": "Day09_9\\MainGame.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAcAAAAAAAAAA==",
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Monster.cs",
+              "RelativeDocumentMoniker": "Day09_9\\Monster.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Monster.cs",
+              "RelativeToolTip": "Day09_9\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:31:42.218Z",
+              "WhenOpened": "2025-03-06T05:04:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Field.cs",
+              "RelativeDocumentMoniker": "Day09_9\\Field.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_9\\Day09_9\\Field.cs*",
+              "RelativeToolTip": "Day09_9\\Field.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:02:47.485Z",
               "EditorCaption": ""
             }
           ]

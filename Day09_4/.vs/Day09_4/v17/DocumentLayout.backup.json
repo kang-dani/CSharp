@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E0875-890D-4C9E-A226-9B979C9D7994}|Day09_4\\Day09_4.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_4\\day09_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4E0875-890D-4C9E-A226-9B979C9D7994}|Day09_4\\Day09_4.csproj|solutionrelative:day09_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_4\\Day09_4\\Program.cs",
+              "RelativeDocumentMoniker": "Day09_4\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_4\\Day09_4\\Program.cs",
+              "RelativeToolTip": "Day09_4\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:07:26.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

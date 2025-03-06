@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\bin\Debug\Day08_SkillSystem.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\bin\Debug\Day08_SkillSystem.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\bin\Debug\Day08_SkillSystem.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\obj\Debug\Day08_SkillSystem.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\obj\Debug\Day08_SkillSystem.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\obj\Debug\Day08_SkillSystem.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_SkillSystem\Day08_SkillSystem\obj\Debug\Day08_SkillSystem.pdb

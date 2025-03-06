@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\bin\Debug\Day09_9.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\bin\Debug\Day09_9.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\bin\Debug\Day09_9.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\obj\Debug\Day09_TextRPG.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\obj\Debug\Day09_TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\obj\Debug\Day09_9.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day09_9\Day09_9\obj\Debug\Day09_9.pdb

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_8\\day09_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|solutionrelative:day09_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_8\\day09_8\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|solutionrelative:day09_8\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_8\\day09_8\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|solutionrelative:day09_8\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|c:\\users\\daeun4001\\onedrive\\desktop\\study\\likelion\\csharp\\day09_8\\day09_8\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DE35017-066C-4D94-9CD0-C98617D95232}|Day09_8\\Day09_8.csproj|solutionrelative:day09_8\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Warrior.cs",
+              "RelativeDocumentMoniker": "Day09_8\\Warrior.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Warrior.cs",
+              "RelativeToolTip": "Day09_8\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:42:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Mage.cs",
+              "RelativeDocumentMoniker": "Day09_8\\Mage.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Mage.cs",
+              "RelativeToolTip": "Day09_8\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:06.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "Day09_8\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\GameCharacter.cs",
+              "RelativeToolTip": "Day09_8\\GameCharacter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:17.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Program.cs",
+              "RelativeDocumentMoniker": "Day09_8\\Program.cs",
+              "ToolTip": "C:\\Users\\daeun4001\\OneDrive\\Desktop\\Study\\LikeLion\\CSharp\\Day09_8\\Day09_8\\Program.cs",
+              "RelativeToolTip": "Day09_8\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:16:51.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

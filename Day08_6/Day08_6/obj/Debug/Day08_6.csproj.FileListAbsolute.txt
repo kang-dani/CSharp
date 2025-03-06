@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\bin\Debug\Day08_6.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\bin\Debug\Day08_6.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\bin\Debug\Day08_6.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\obj\Debug\Day08_6.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\obj\Debug\Day08_6.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\obj\Debug\Day08_6.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_6\Day08_6\obj\Debug\Day08_6.pdb

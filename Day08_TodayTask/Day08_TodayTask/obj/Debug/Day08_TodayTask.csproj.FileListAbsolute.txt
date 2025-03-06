@@ -1,0 +1,7 @@
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\obj\Debug\Day08_TodayTask.csproj.AssemblyReference.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\obj\Debug\Day08_TodayTask.csproj.CoreCompileInputs.cache
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\bin\Debug\Day08_TodayTask.exe.config
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\bin\Debug\Day08_TodayTask.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\bin\Debug\Day08_TodayTask.pdb
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\obj\Debug\Day08_TodayTask.exe
+C:\Users\daeun4001\OneDrive\Desktop\Study\LikeLion\CSharp\Day08_TodayTask\Day08_TodayTask\obj\Debug\Day08_TodayTask.pdb

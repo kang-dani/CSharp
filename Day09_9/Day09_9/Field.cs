@@ -104,8 +104,18 @@ namespace Day09_9
 
 					if (m_pPlayer.iHp <= 0)
 					{
-						m_pPlayer.iHp = 100;
-						break;
+						if(m_pPlayer.strName == "기사")
+						{
+							m_pPlayer.iHp = 100;
+						}
+						else if (m_pPlayer.strName == "마법사")
+						{
+							m_pPlayer.iHp = 90;
+						}
+						else if (m_pPlayer.strName == "도둑")
+						{
+							m_pPlayer.iHp = 85;
+							break;
 					}
 				}
 
